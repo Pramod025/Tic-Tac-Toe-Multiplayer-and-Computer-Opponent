@@ -9,7 +9,8 @@ Welcome to the Tic-Tac-Toe game repository! This project includes a C++ implemen
 - Keep track of wins for each player.
 - Clear and user-friendly console interface.
 
-- ![Uploading image.png…]()
+![image](https://github.com/Pramod025/Tic-Tac-Toe-Multiplayer-and-Computer-Opponent/assets/57028365/1c303abb-3a9f-4806-9d6e-fde1b0540d4e)
+
 
 
 ## Getting Started
