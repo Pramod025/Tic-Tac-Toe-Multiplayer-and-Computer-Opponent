@@ -9,6 +9,9 @@ Welcome to the Tic-Tac-Toe game repository! This project includes a C++ implemen
 - Keep track of wins for each player.
 - Clear and user-friendly console interface.
 
+- ![Uploading image.png…]()
+
+
 ## Getting Started
 
 To get started with the game, follow these steps:
